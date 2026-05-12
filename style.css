@@ -1,0 +1,16 @@
+body {
+  background-color: blue;
+  color: yellow;
+  font-size: 18;
+  font-family: tahoma;
+  text-align: left;
+
+}
+h1 {
+  color: yellow;
+  text-align: center;
+  font-family: verdana;
+  font-size: 40;
+  font-weight: bold;
+}
+
